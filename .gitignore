@@ -1,4 +1,5 @@
 *.replit
 *.class
 **/*
-!**/*.EstCondicinal.py
+!**/*.py
+!**/*.EstCondicional.py
