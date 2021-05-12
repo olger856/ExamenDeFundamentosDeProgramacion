@@ -1,3 +1,4 @@
 *.replit
 *.class
 **/*
+!**/*.EstCondicinal.py
